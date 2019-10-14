@@ -46,4 +46,5 @@ public final class PreferenceUtilities {
         int chargingReminders = prefs.getInt(KEY_CHARGING_REMINDER_COUNT, DEFAULT_COUNT);
         return chargingReminders;
     }
+
 }

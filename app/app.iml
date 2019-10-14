@@ -19,15 +19,15 @@
         <option name="ALLOW_USER_CONFIGURATION" value="false" />
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
         <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
-        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/src/main/res;file://C:/tmp/01-IntentServices/app/generated/res/resValues/debug" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/src/main/res;file://C:/tmp/IntentService/app/generated/res/resValues/debug" />
         <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
       </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
-    <output url="file://C:/tmp/01-IntentServices/app/intermediates/javac/debug/classes" />
-    <output-test url="file://C:/tmp/01-IntentServices/app/intermediates/javac/debugUnitTest/classes" />
+    <output url="file://C:/tmp/IntentService/app/intermediates/javac/debug/classes" />
+    <output-test url="file://C:/tmp/IntentService/app/intermediates/javac/debugUnitTest/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src/debug/res" type="java-resource" />
@@ -73,44 +73,44 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/shaders" isTestSource="true" />
     </content>
-    <content url="file://C:/tmp/01-IntentServices/app/generated/aidl_source_output_dir/debug/compileDebugAidl/out">
-      <sourceFolder url="file://C:/tmp/01-IntentServices/app/generated/aidl_source_output_dir/debug/compileDebugAidl/out" isTestSource="false" generated="true" />
+    <content url="file://C:/tmp/IntentService/app/generated/aidl_source_output_dir/debug/compileDebugAidl/out">
+      <sourceFolder url="file://C:/tmp/IntentService/app/generated/aidl_source_output_dir/debug/compileDebugAidl/out" isTestSource="false" generated="true" />
     </content>
-    <content url="file://C:/tmp/01-IntentServices/app/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out">
-      <sourceFolder url="file://C:/tmp/01-IntentServices/app/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out" isTestSource="true" generated="true" />
+    <content url="file://C:/tmp/IntentService/app/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out">
+      <sourceFolder url="file://C:/tmp/IntentService/app/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out" isTestSource="true" generated="true" />
     </content>
-    <content url="file://C:/tmp/01-IntentServices/app/generated/ap_generated_sources/debug/out">
-      <sourceFolder url="file://C:/tmp/01-IntentServices/app/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    <content url="file://C:/tmp/IntentService/app/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://C:/tmp/IntentService/app/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
     </content>
-    <content url="file://C:/tmp/01-IntentServices/app/generated/ap_generated_sources/debugAndroidTest/out">
-      <sourceFolder url="file://C:/tmp/01-IntentServices/app/generated/ap_generated_sources/debugAndroidTest/out" isTestSource="true" generated="true" />
+    <content url="file://C:/tmp/IntentService/app/generated/ap_generated_sources/debugAndroidTest/out">
+      <sourceFolder url="file://C:/tmp/IntentService/app/generated/ap_generated_sources/debugAndroidTest/out" isTestSource="true" generated="true" />
     </content>
-    <content url="file://C:/tmp/01-IntentServices/app/generated/ap_generated_sources/debugUnitTest/out">
-      <sourceFolder url="file://C:/tmp/01-IntentServices/app/generated/ap_generated_sources/debugUnitTest/out" isTestSource="true" generated="true" />
+    <content url="file://C:/tmp/IntentService/app/generated/ap_generated_sources/debugUnitTest/out">
+      <sourceFolder url="file://C:/tmp/IntentService/app/generated/ap_generated_sources/debugUnitTest/out" isTestSource="true" generated="true" />
     </content>
-    <content url="file://C:/tmp/01-IntentServices/app/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out">
-      <sourceFolder url="file://C:/tmp/01-IntentServices/app/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out" isTestSource="false" generated="true" />
+    <content url="file://C:/tmp/IntentService/app/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out">
+      <sourceFolder url="file://C:/tmp/IntentService/app/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out" isTestSource="false" generated="true" />
     </content>
-    <content url="file://C:/tmp/01-IntentServices/app/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out">
-      <sourceFolder url="file://C:/tmp/01-IntentServices/app/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out" isTestSource="true" generated="true" />
+    <content url="file://C:/tmp/IntentService/app/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out">
+      <sourceFolder url="file://C:/tmp/IntentService/app/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out" isTestSource="true" generated="true" />
     </content>
-    <content url="file://C:/tmp/01-IntentServices/app/generated/res/resValues/androidTest/debug">
-      <sourceFolder url="file://C:/tmp/01-IntentServices/app/generated/res/resValues/androidTest/debug" type="java-test-resource" generated="true" />
+    <content url="file://C:/tmp/IntentService/app/generated/res/resValues/androidTest/debug">
+      <sourceFolder url="file://C:/tmp/IntentService/app/generated/res/resValues/androidTest/debug" type="java-test-resource" generated="true" />
     </content>
-    <content url="file://C:/tmp/01-IntentServices/app/generated/res/resValues/debug">
-      <sourceFolder url="file://C:/tmp/01-IntentServices/app/generated/res/resValues/debug" type="java-resource" generated="true" />
+    <content url="file://C:/tmp/IntentService/app/generated/res/resValues/debug">
+      <sourceFolder url="file://C:/tmp/IntentService/app/generated/res/resValues/debug" type="java-resource" generated="true" />
     </content>
-    <content url="file://C:/tmp/01-IntentServices/app/generated/res/rs/androidTest/debug">
-      <sourceFolder url="file://C:/tmp/01-IntentServices/app/generated/res/rs/androidTest/debug" type="java-test-resource" generated="true" />
+    <content url="file://C:/tmp/IntentService/app/generated/res/rs/androidTest/debug">
+      <sourceFolder url="file://C:/tmp/IntentService/app/generated/res/rs/androidTest/debug" type="java-test-resource" generated="true" />
     </content>
-    <content url="file://C:/tmp/01-IntentServices/app/generated/res/rs/debug">
-      <sourceFolder url="file://C:/tmp/01-IntentServices/app/generated/res/rs/debug" type="java-resource" generated="true" />
+    <content url="file://C:/tmp/IntentService/app/generated/res/rs/debug">
+      <sourceFolder url="file://C:/tmp/IntentService/app/generated/res/rs/debug" type="java-resource" generated="true" />
     </content>
-    <content url="file://C:/tmp/01-IntentServices/app/generated/source/buildConfig/androidTest/debug">
-      <sourceFolder url="file://C:/tmp/01-IntentServices/app/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+    <content url="file://C:/tmp/IntentService/app/generated/source/buildConfig/androidTest/debug">
+      <sourceFolder url="file://C:/tmp/IntentService/app/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
     </content>
-    <content url="file://C:/tmp/01-IntentServices/app/generated/source/buildConfig/debug">
-      <sourceFolder url="file://C:/tmp/01-IntentServices/app/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    <content url="file://C:/tmp/IntentService/app/generated/source/buildConfig/debug">
+      <sourceFolder url="file://C:/tmp/IntentService/app/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
